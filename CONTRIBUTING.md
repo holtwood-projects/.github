@@ -30,7 +30,7 @@
 
 ## 行为准则
 
-参与本项目即表示你同意遵循组织的 [CODE_OF_CONDUCT](https://github.com/build-workbench/.github/blob/main/CODE_OF_CONDUCT.md)。
+参与本项目即表示你同意遵循组织的 [CODE_OF_CONDUCT](https://github.com/holtwood-projects/.github/blob/main/CODE_OF_CONDUCT.md)。
 
 ## 问题?
 
