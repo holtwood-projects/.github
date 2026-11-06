@@ -4,6 +4,8 @@
 
 维护者：[holtwood](https://github.com/holtwood)
 
+> **维护模式（2026-11-06）**：这些是可运行的历史项目，不是当前主线。新功能默认不开发；只做构建、安全与文档修复。当前系统工作在 [holtwood-systems](https://github.com/holtwood-systems)，比赛在 [holtwood-arena](https://github.com/holtwood-arena)。
+
 ## 这里放什么
 
 clone 下来、按 README 就能跑起来的完整项目，大致三类：
@@ -12,7 +14,7 @@ clone 下来、按 README 就能跑起来的完整项目，大致三类：
 - **教学实现**：把经典算法或系统从零写一遍，代码结构优先于功能数量
 - **GPU / 高性能**：CUDA、WebGPU、数值计算，附基准与复现步骤
 
-AI Infra 系统项目在 [open-infra-ai](https://github.com/open-infra-ai)，上游研读副本在 [holtwood-forks](https://github.com/holtwood-forks)。
+AI Infra 系统项目在 [holtwood-systems](https://github.com/holtwood-systems)，比赛与 benchmark 在 [holtwood-arena](https://github.com/holtwood-arena)，上游研读副本在 [holtwood-forks](https://github.com/holtwood-forks)。
 
 ## 工具
 
@@ -26,7 +28,6 @@ AI Infra 系统项目在 [open-infra-ai](https://github.com/open-infra-ai)，上
 | [dig-your-windows](https://github.com/holtwood-projects/dig-your-windows) | Windows 硬件、SMART 与事件日志诊断 |
 | [compress-kit](https://github.com/holtwood-projects/compress-kit) | C++17 实现 Huffman、算术、区间、RLE、LZSS |
 | [bitcal](https://github.com/holtwood-projects/bitcal) | 纯头文件 C++23 位运算库，x86-64 + AVX2 |
-| [cmdc-statusline](https://github.com/holtwood-projects/cmdc-statusline) | Command Code 的状态栏：模型、上下文、成本、git 状态 |
 | [cloud-bench](https://github.com/holtwood-projects/cloud-bench) | 云服务器性能评测脚本与方法论 |
 | [wb2api](https://github.com/holtwood-projects/wb2api) | 把 CodeBuddy 订阅包成 OpenAI 兼容接口（非官方） |
 
@@ -51,11 +52,15 @@ AI Infra 系统项目在 [open-infra-ai](https://github.com/open-infra-ai)，上
 
 | 仓库 | 说明 |
 |------|------|
-| [JadeAI](https://github.com/holtwood-projects/JadeAI) | 简历编辑与求职工作台：模板、解析、JD 匹配、导出 |
 | [meta-human](https://github.com/holtwood-projects/meta-human) | 浏览器 3D 数字人，集成语音与对话 |
 | [yolo-toys](https://github.com/holtwood-projects/yolo-toys) | YOLOv8 / DETR / OWL-ViT / Grounding DINO / BLIP 的统一 FastAPI 接口 |
 | [shadow-note](https://github.com/holtwood-projects/shadow-note) | 端到端加密笔记同步，服务端零知识 |
 | [chat-stash](https://github.com/holtwood-projects/chat-stash) | 保存 AI 聊天记录的 Chrome 扩展，Supabase 存储与全文检索 |
+
+## 归属说明
+
+- `cmdc-statusline` 属于个人号 [holtwood](https://github.com/holtwood)，不是本组织仓库。
+- `JadeAI` 是 fork，归在 [holtwood-forks](https://github.com/holtwood-forks)。
 
 ## 站点
 
@@ -66,3 +71,7 @@ AI Infra 系统项目在 [open-infra-ai](https://github.com/open-infra-ai)，上
 - 每个仓库的 README 说明用途、运行方式与已知限制
 - 教学项目优先保证代码可读，不追求功能数量
 - 性能数字附硬件、命令与复现方式；没有测量就不写结论
+
+---
+
+维护者：[holtwood](https://github.com/holtwood) · 当前系统：[holtwood-systems](https://github.com/holtwood-systems) · 比赛：[holtwood-arena](https://github.com/holtwood-arena)
