@@ -14,6 +14,8 @@ holtwood-projects 的组织级 `.github` 仓库，托管组织资料与社区健
 ### 变更
 
 - 组织改名 `holtwood-projects`（2026-10-19）：组织主页、社区健康文件与全部链接同步新名。
-- 品牌统一为 build-workbench。
+- 品牌名统一为 holtwood-projects（取代早期的 build-workbench）。
 - 项目一览中 webrtc-demo 更新为 webrtc-call。
 - 统一 shadow-note 命名并修正事实性描述。
+- CONTRIBUTING 中的组织名同步为 holtwood-projects；README 移除指向本地未公开 `AGENTS.md` 的失效引用。
+- profile 项目一览标注 `chat-stash` 已归档。

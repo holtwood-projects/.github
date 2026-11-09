@@ -21,4 +21,3 @@ GitHub 会将这些文件作为**组织内所有仓库的默认值**：当某个
 
 - 新增 / 重命名项目时，**必须同步更新** `profile/README.md`，并与门户站点 [`holtwood-projects.github.io`](https://github.com/holtwood-projects/holtwood-projects.github.io) 的 `index.html` 保持一致。
 - 修改后需 commit 并 push 到 `main` 分支。
-- 完整的组织维护规范见本地工作区的 `AGENTS.md`。

@@ -55,7 +55,7 @@ AI Infra 系统项目在 [holtwood-systems](https://github.com/holtwood-systems)
 | [meta-human](https://github.com/holtwood-projects/meta-human) | 浏览器 3D 数字人，集成语音与对话 |
 | [yolo-toys](https://github.com/holtwood-projects/yolo-toys) | YOLOv8 / DETR / OWL-ViT / Grounding DINO / BLIP 的统一 FastAPI 接口 |
 | [shadow-note](https://github.com/holtwood-projects/shadow-note) | 端到端加密笔记同步，服务端零知识 |
-| [chat-stash](https://github.com/holtwood-projects/chat-stash) | 保存 AI 聊天记录的 Chrome 扩展，Supabase 存储与全文检索 |
+| [chat-stash](https://github.com/holtwood-projects/chat-stash) | 保存 AI 聊天记录的 Chrome 扩展，Supabase 存储与全文检索（已归档） |
 
 ## 归属说明
 
